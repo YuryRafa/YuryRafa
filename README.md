@@ -3,7 +3,7 @@
 Desenvolvedor backend em formação, com foco na construção de APIs e aplicações
 web escaláveis e bem estruturadas, orientado a boas práticas e organização de código.
 
-Estudante de Engenharia de Computação com a mente voltada para desenvolvimento backend e arquitetura de sistemas. Busco evoluir através de projetos práticos, aplicando
+Estudante de Engenharia da Computação com a mente voltada para desenvolvimento backend e arquitetura de sistemas. Busco evoluir através de projetos práticos, aplicando
 conceitos de design de APIs, banco de dados e boas práticas de engenharia de software.
 
 ---
