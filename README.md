@@ -1,6 +1,6 @@
 # Olá, eu sou Yury Rafael 👋
 
-Desenvolvedor backend em formação, com foco na construção de APIs e aplicações
+Desenvolvedor backend, com foco na construção de APIs e aplicações
 web escaláveis e bem estruturadas, orientado a boas práticas e organização de código.
 
 Estudante de Engenharia da Computação com a mente voltada para desenvolvimento backend e arquitetura de sistemas. Busco evoluir através de projetos práticos, aplicando
